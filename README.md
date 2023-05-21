@@ -18,7 +18,7 @@ The frontend development plan is divided into several phases which include envir
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/eco-exchange-frontend.git
+    https://github.com/Mandip77/SustainableExchange-frontend-.git
     cd eco-exchange-frontend
     ```
 
