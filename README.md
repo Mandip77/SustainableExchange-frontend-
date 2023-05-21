@@ -1,10 +1,10 @@
 # Eco-Exchange Frontend
 
-This repository contains the frontend code for the Eco-Exchange application, developed using Vue.js.
+This repository contains the frontend code for the Eco-Exchange application, developed using React.js.
 
 ## Development Plan
 
-The frontend development plan is divided into several phases which include environment setup, design and component breakdown, core functionality development, integrating Vuex and Vue Router, connecting with backend, and testing & debugging.
+The frontend development plan is divided into several phases which include environment setup, design and component breakdown, core functionality development, integrating Redux for state management, connecting with backend, and testing & debugging.
 
 ### Getting Started
 
@@ -18,7 +18,7 @@ The frontend development plan is divided into several phases which include envir
 1. Clone the repository:
 
     ```bash
-    https://github.com/Mandip77/SustainableExchange-frontend-.git
+    git clone https://github.com/yourusername/eco-exchange-frontend.git
     cd eco-exchange-frontend
     ```
 
@@ -45,7 +45,7 @@ The application will start running at `http://localhost:3000`.
 To run the unit tests, use:
 
     ```bash
-    npm run test:unit
+    npm run test
     ```
 
 ### Deployment
@@ -54,4 +54,4 @@ To run the unit tests, use:
 
 ### Contributing
 
-Check Contribution.md file.
+(Explain how to contribute to your project, if applicable)
