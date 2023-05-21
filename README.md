@@ -18,7 +18,7 @@ The frontend development plan is divided into several phases which include envir
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/eco-exchange-frontend.git
+    git clone https://github.com/Mandip77/SustainableExchange-frontend-.git
     cd eco-exchange-frontend
     ```
 
@@ -48,10 +48,6 @@ To run the unit tests, use:
     npm run test
     ```
 
-### Deployment
-
-(Describe how to deploy this frontend application to a cloud service provider)
-
 ### Contributing
 
-(Explain how to contribute to your project, if applicable)
+Check Contribution.md file
